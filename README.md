@@ -3,11 +3,12 @@
 
 ![alt Picture of me](https://raw.githubusercontent.com/nikkizol/markdown-challenge/master/public/image.jpg)
 ## 100% motivated
-|  Birthday:    |  30/08        |
+|      |          |
 | --------------- | ---------------- |
-| **Favorite color:** | Brown  |
-| **Favorite food:** | Sushi  |
-| **Pinneapple on pizza:**|  ✅ YES |
+| Birthday: | 30/08  |
+| Favorite color: | Brown  |
+| Favorite food: | Sushi  |
+| Pinneapple on pizza:|  ✅ YES |
 ## Hobbies:
 * Sport:
   * Football;
