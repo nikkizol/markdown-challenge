@@ -3,7 +3,7 @@
 
 ![alt Picture of me](https://raw.githubusercontent.com/nikkizol/markdown-challenge/master/image.jpg)
 ## 100% motivated
-|       |          |
+|      |          |
 | --------------- | ---------------- |
 | Birthday: | 30/08  |
 | Favorite color: | Brown  |
