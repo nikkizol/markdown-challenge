@@ -21,7 +21,12 @@
  Need some creative ideas - ask me.
 
  ## A funny story:
- One summer me and my friends went with the bikes to the wild lake, we had fun, we were swimming a lot, so all was good till the moment we heard the rifle shoot, MAAAN that was So SCARY, all of us went down immediately and someone said that the hunting season has just started… and this area is forbidden for picnics and staff like this… so we were down on the ground and we were screaming do not shoot for about an hour or so.. but we never heard anything back.. so we decided to carefully get out of that place, and when we got to our bikes we noticed that one of the tires was flat and than we all realized that the sound we heard was not from the rifle - but from the tire because of the sun…. 
+ One summer me and my friends went with the bikes to the wild lake, 
+ we had fun, we were swimming a lot, so all was good till the moment we heard the rifle shoot,
+  MAAAN that was So SCARY, all of us went down immediately and someone said that the hunting season has just started… 
+  and this area is forbidden for picnics and staff like this… so we were down on the ground and we were screaming do not shoot for about an hour or so.. 
+  but we never heard anything back.. so we decided to carefully get out of that place, 
+  and when we got to our bikes we noticed that one of the tires was flat and than we all realized that the sound we heard was not from the rifle - but from the tyre because it exploded from the heat…. 
  ###### TL;DR:
  ###### don't believe in everything you hear...
 
