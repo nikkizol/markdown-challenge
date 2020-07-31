@@ -26,4 +26,4 @@
  ###### don't believe in everything you hear...
 
  
-[<<previous page](https://github.com/mcoulier/markdown-challenge)  **Mykyta Zholkovskyi**  [next page>>](https://github.com/Tessakam/markdown-challenge)
+[☜ previous page](https://github.com/mcoulier/markdown-challenge)  **Mykyta Zholkovskyi**  [next page ☞](https://github.com/Tessakam/markdown-challenge)
