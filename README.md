@@ -23,4 +23,4 @@
  Here should be a funny story.
  ###### Maybe I will add one later...
  
-[<<previous page](git@github.com:Tessakam/markdown-challenge.git)  **Mykyta Zholkovskyi**  [next page>>](https://link.com)
+[<<previous page](https://github.com/Tessakam/markdown-challenge)  **Mykyta Zholkovskyi**  [next page>>](https://link.com)
