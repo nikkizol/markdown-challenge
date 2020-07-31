@@ -11,10 +11,11 @@
 | Pinneapple on pizza:|  ✅ YES |
 ## Hobbies:
 * Sport:
-  * Football
-  * Spikeball
-* Netflix 
-* Taking a nap
+  * Football;
+  * Spikeball;
+* Cs go; 
+* Netflix; 
+* Taking a nap.
 ## You can always count on me when you need some help!
  You can ask me any qustions and if I dont have an answer, I will look for it together with you. <br/> 
  Need some creative ideas - ask me.
