@@ -21,6 +21,6 @@
 
  ## A funny story:
  Here should be a funny story.
- ###### Maybe I will one add later...
+ ###### Maybe I will add one later...
  
-[<<previous page](https://link.com)  Mykyta Zholkovskyi  [next page>>](https://link.com)
+[<<previous page](git@github.com:Tessakam/markdown-challenge.git)  **Mykyta Zholkovskyi**  [next page>>](https://link.com)
